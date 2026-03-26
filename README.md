@@ -13,7 +13,7 @@ Este projeto contém a automação dos cenários de busca de artigos no Blog do 
    - Dado que estou na página inicial do Blog do Agi  
    - Quando realizo uma busca por um termo inexistente  
    - Então devo visualizar uma mensagem indicando ausência de resultados ou nenhum card de artigo na listagem
-
+ 
 ## Requisitos
 
 - Python 3.11+
